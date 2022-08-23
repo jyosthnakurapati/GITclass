@@ -172,6 +172,9 @@ public class BaseClass {
 				Select s= new Select(ele);
 				s.deselectAll();
 				}
+			public void Jyosthna() {
+				System.out.println("Jyosthna");
+			}
 }
 
 
